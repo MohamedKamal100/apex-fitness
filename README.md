@@ -10,29 +10,7 @@
 🚀 **Visit Website:**  
 👉 https://mohamedkamal100.github.io/apex-fitness/
 
----
 
-## 🖼️ Project Preview
-
-### 🏠 Hero Section
-
-
----
-
-### 💪 Services Section
-
-
----
-
-### 💰 Pricing Plans
-
-
----
-
-### 📱 Mobile Responsive
-
-
----
 
 ## ⚡ Highlights
 
