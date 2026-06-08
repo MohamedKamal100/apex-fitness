@@ -72,8 +72,8 @@ This project was built to demonstrate:
 
 ## 📞 Contact
 
-📧 Email: your-email@example.com  
-📱 WhatsApp: your-number  
+📧 Email: m7maaa82@gmail.com  
+📱 WhatsApp: 01022370498  
 📍 Location: Egypt  
 
 ---
