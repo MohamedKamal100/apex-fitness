@@ -15,30 +15,22 @@
 ## 🖼️ Project Preview
 
 ### 🏠 Hero Section
-<p align="center">
-  <img src="./assets/hero.png" width="100%" />
-</p>
+
 
 ---
 
 ### 💪 Services Section
-<p align="center">
-  <img src="./assets/services.png" width="100%" />
-</p>
+
 
 ---
 
 ### 💰 Pricing Plans
-<p align="center">
-  <img src="./assets/pricing.png" width="100%" />
-</p>
+
 
 ---
 
 ### 📱 Mobile Responsive
-<p align="center">
-  <img src="./assets/mobile.png" width="40%" />
-</p>
+
 
 ---
 
