@@ -1,16 +1,82 @@
-# React + Vite
+# 🏋️‍♂️ Apex Fitness
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> ⚡ Modern Gym Landing Page built with React.js  
+> 🎯 Designed for portfolio showcase with high-end UI/UX
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Preview
 
-## React Compiler
+🚀 **Visit Website:**  
+👉 https://mohamedkamal100.github.io/apex-fitness/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Project Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏠 Hero Section
+<p align="center">
+  <img src="./assets/hero.png" width="100%" />
+</p>
+
+---
+
+### 💪 Services Section
+<p align="center">
+  <img src="./assets/services.png" width="100%" />
+</p>
+
+---
+
+### 💰 Pricing Plans
+<p align="center">
+  <img src="./assets/pricing.png" width="100%" />
+</p>
+
+---
+
+### 📱 Mobile Responsive
+<p align="center">
+  <img src="./assets/mobile.png" width="40%" />
+</p>
+
+---
+
+## ⚡ Highlights
+
+✔ Modern Dark UI Design  
+✔ Fully Responsive Layout  
+✔ Smooth Animations  
+✔ React Component-Based Architecture  
+✔ WhatsApp Floating Button  
+✔ Real-world Gym Landing Page Structure  
+
+---
+
+## 🛠️ Tech Stack
+
+`React.js` • `JavaScript` • `CSS3` • `GitHub Pages`
+
+---
+
+## 🎯 Purpose
+
+This project was built to demonstrate:
+
+- Frontend Development Skills
+- UI/UX Design Thinking
+- Responsive Web Design
+- Portfolio-Level Project Structuring
+
+---
+
+## 📞 Contact
+
+📧 Email: your-email@example.com  
+📱 WhatsApp: your-number  
+📍 Location: Egypt  
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub and follow for more projects 🚀
