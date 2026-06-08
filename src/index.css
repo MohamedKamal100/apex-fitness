@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --color-neon-cyan: #00e5ff;
+  --color-neon-red: #ff3e3e;
+  --color-dark-bg: #070708;
+  --color-dark-card: #121214;
+  --color-dark-border: #1e1e24;
+  --font-display: "Cairo", "Space Grotesk", sans-serif;
+  --font-sans: "Cairo", "Inter", sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #070708;
+    color: #f3f4f6;
+  }
+  
+  body {
+    font-family: "Cairo", sans-serif;
+    background-color: #070708;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #070708;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1e1e24;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #ff3e3e;
+  }
+}
+
+/* Custom Utilities for Neon Effects */
+.neon-shadow-cyan {
+  box-shadow: 0 0 15px rgba(0, 229, 255, 0.35);
+}
+
+.neon-shadow-red {
+  box-shadow: 0 0 15px rgba(255, 62, 62, 0.35);
+}
+
+.neon-border-cyan {
+  border: 1px solid rgba(0, 229, 255, 0.4);
+}
+
+.neon-border-red {
+  border: 1px solid rgba(255, 62, 62, 0.4);
+}
+
+.text-gradient-cyan-red {
+  background: linear-gradient(135deg, #00e5ff 0%, #ff3e3e 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-red-cyan {
+  background: linear-gradient(135deg, #ff3e3e 0%, #00e5ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Custom range input styling for transformation slider */
+.slider-thumb::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #ff3e3e;
+  border: 4px solid #00e5ff;
+  cursor: ew-resize;
+  box-shadow: 0 0 10px rgba(255, 62, 62, 0.8);
+  transition: all 0.2s ease-in-out;
+}
+
+.slider-thumb::-webkit-slider-thumb:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(255, 62, 62, 1);
+}
+
+/* Glassmorphism utility */
+.glassmorphic {
+  background: rgba(18, 18, 20, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
